@@ -1,0 +1,5 @@
+node_modules
+
+# I put AOC example and puzzle inputs here but who knows if I'll forget and put them somewhere else
+inputs/*.txt
+*.txt
